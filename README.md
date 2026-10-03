@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
