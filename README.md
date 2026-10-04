@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
