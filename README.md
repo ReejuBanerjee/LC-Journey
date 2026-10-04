@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
