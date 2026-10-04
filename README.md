@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0319-bulb-switcher) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2425-bitwise-xor-of-all-pairings) |
+## String
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
