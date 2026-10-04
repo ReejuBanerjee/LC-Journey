@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0319-bulb-switcher) |
 | [1688-count-of-matches-in-tournament](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0319-bulb-switcher) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
