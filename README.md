@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0319-bulb-switcher) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
