@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
@@ -37,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
