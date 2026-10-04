@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2396-strictly-palindromic-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## String
 |  |
