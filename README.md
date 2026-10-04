@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0189-rotate-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
 <!---LeetCode Topics End-->
