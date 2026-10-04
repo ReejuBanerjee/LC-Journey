@@ -1,0 +1,11 @@
+class Solution {
+public:
+    int xorBeauty(vector<int>& nums) {
+        int n = nums.size();
+        int answer = 0;
+        for(int i=0 ; i<n ; i++){
+            answer = answer^nums[i];
+        }
+        return answer;
+    }
+};
