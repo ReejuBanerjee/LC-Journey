@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +130,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
