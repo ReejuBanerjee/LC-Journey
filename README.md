@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ReejuBanerjee/LC-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2527-find-xor-beauty-of-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/2527-find-xor-beauty-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0287-find-the-duplicate-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ReejuBanerjee/LC-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
